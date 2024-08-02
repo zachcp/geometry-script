@@ -22,4 +22,4 @@ classifiers = [
 # geometry_script = ["*.py"]
 
 [tool.setuptools]
-py-modules = ["geometry_script"]
+packages = ["geometry_script"]
