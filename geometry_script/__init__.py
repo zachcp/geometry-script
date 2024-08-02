@@ -8,7 +8,7 @@
 # MERCHANTIBILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 # General Public License for more details.
 #
-# You should have received a copy of the GNU General Public License
+# You should ha ve received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 # Set the `geometry_script` module to the current module in case the folder is named differently.
