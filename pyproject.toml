@@ -18,4 +18,8 @@ classifiers = [
 # [tool.setuptools]
 # packages = ["geometry_script"]
 [tool.setuptools]
-packages = ["geometry_script", "geometry_script.api"]
+packages = [
+    "geometry_script",
+    "geometry_script.api",
+    "geometry_script.api.static",
+]
