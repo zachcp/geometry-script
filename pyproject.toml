@@ -17,9 +17,5 @@ classifiers = [
 
 # [tool.setuptools]
 # packages = ["geometry_script"]
-
-# [tool.setuptools.package-data]
-# geometry_script = ["*.py"]
-
 [tool.setuptools]
-packages = ["geometry_script"]
+packages = ["find:"]
